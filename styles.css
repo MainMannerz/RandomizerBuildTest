@@ -1,0 +1,13 @@
+
+/* Class Selectors */
+.interactive-button-1 {
+    width: 10vw;
+    height: 10vw;
+}
+
+/* ID Selectors */
+#main-buttons-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
